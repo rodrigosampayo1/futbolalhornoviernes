@@ -2,6 +2,7 @@
 
 ###
 ##
+echo "This a test for a youtube channel"
 #
 #
 #
